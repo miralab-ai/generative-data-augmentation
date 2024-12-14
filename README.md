@@ -61,6 +61,15 @@ Fine-tuning and prompt engineering play a crucial role in improving the quality 
 <!-- ![image](https://github.com/user-attachments/assets/2bf66838-d54a-4a6d-b779-df169356afad) --> 
 <img src="https://github.com/user-attachments/assets/2bf66838-d54a-4a6d-b779-df169356afad" alt="image" width="600">
 
+## Demonstrating the positive impact of synthetic data on model performance 
+Synthetic data augmentation was applied to address class imbalance by focusing on underrepresented classes while excluding dominant ones. Diffusion-based models generated synthetic data, leading to significant improvements in accuracy, F1-Score, precision, and recall, as detailed in Table and Figure below. The accuracy and loss graphs demonstrated faster convergence and higher performance, confirming the effectiveness of synthetic data in enhancing model performance. 
+
+![image](https://github.com/user-attachments/assets/84dec8ec-61d0-4217-bacf-bd328615ba8d)
+
+<img src="https://github.com/user-attachments/assets/84dec8ec-61d0-4217-bacf-bd328615ba8d" alt="image" width="600">
+
+
+
 
 # Citation 
 

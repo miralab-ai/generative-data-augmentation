@@ -54,6 +54,8 @@ Fine-tuning and prompt engineering play a crucial role in improving the quality 
 
 ![image](https://github.com/user-attachments/assets/a2eb7d46-631e-4a63-8f40-4be6f3db596a)
 
+<img src="https://github.com/user-attachments/assets/a2eb7d46-631e-4a63-8f40-4be6f3db596a" alt="image" width="600">
+
 
 
 # Citation 

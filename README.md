@@ -83,7 +83,7 @@ Synthetic data improves model performance by increasing diversity and aiding gen
 **Table:** 5 class classification results with synthetic data augmentation for different scenarios. sc1: real data, sc2: real data + x0.5 synthetic data, sc3: real data + x1 synthetic data, sc4: real data + x1.5 synthetic data, sc5: real data + x2 synthetic data, sc6: real data + x4 synthetic data. 
 
 <!-- ![image](https://github.com/user-attachments/assets/122ddbac-09d8-4448-af34-5d383ec2f3d6) -->
-<img src="https://github.com/user-attachments/assets/122ddbac-09d8-4448-af34-5d383ec2f3d6" alt="image" width="500">
+<img src="https://github.com/user-attachments/assets/122ddbac-09d8-4448-af34-5d383ec2f3d6" alt="image" width="600">
 
 
 

@@ -21,7 +21,7 @@ Our research enhances deep learning-based ocular disease classification by gener
 Our process consists of six steps as shown below to generate and evaluate synthetic data for ocular disease diagnosis. 
 
 <!-- ![image](https://github.com/user-attachments/assets/cfbd6ad7-ee9f-4ee6-bdad-076a60d0234b) -->
-<img src="https://github.com/user-attachments/assets/cfbd6ad7-ee9f-4ee6-bdad-076a60d0234b" alt="image" width="600">
+<img src="https://github.com/user-attachments/assets/cfbd6ad7-ee9f-4ee6-bdad-076a60d0234b" alt="image" width="700">
 
 ## Step 1: Fine-tune the Diffusion-Based Data Augmentation Model: 
 In the first step of our process, we fine-tuned the diffusion-based image generation model (Stable Diffusion) based on specific classes and instances that we wish to generate. In order to generate synthetic data that satisfies our desired criteria, this customized fine-tuning is essential.   

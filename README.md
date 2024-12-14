@@ -38,20 +38,23 @@ Image selection of dominant classes, namely diabetes and normal, was made using 
 
 ![image](https://github.com/user-attachments/assets/280869e9-489d-4448-a4b1-23f0203ac3bb)
 
+## Step 5: Integrating Synthetic Data, Real Data, and Selected Images: 
+With the completion of the labeling process through the classification model, the synthetic data and selected images were integrated with our existing real data. This union resulted in the formation of new datasets. 
 
+## Step 6: Evaluation and Testing for Different Cases: 
+The final step involves subjecting the newly formed Hybrid datasets to a series of tests. We carefully assessed the impact of the synthetic data addition on accuracy. Once again, a pre-trained VGG19 model was utilized. This step allowed us to draw conclusions and provided insights into the effectiveness of our synthetic data augmentation in enhancing classification performance.
 
 
 ## Dataset 
 
 Ocular Disease Intelligent Recognition (ODIR), used in this study, is publicly available at https://odir2019.grand-challenge.org/. 
 
-## Generation and Labeling of Synthetic Data 
 
 
 
 
 
-## Citation 
+# Citation 
 
 If you use the our research in your studies, please cite our related publication: 
 

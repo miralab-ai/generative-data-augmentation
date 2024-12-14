@@ -58,7 +58,7 @@ Stable Diffusion was employed to overcome limitations of traditional augmentatio
 ## Fine‑tuning and prompt engineering significantly influenced the quality of synthetic data
 Fine-tuning and prompt engineering play a crucial role in improving the quality of synthetic data for ocular diseases such as Glaucoma, Hypertension, Cataract, AMD, and Pathological Myopia. Specific prompts enable more realistic representations, capturing detailed disease-specific features often missed or distorted with generic prompts. The study demonstrates that tailored prompt selection, combined with fine-tuning, is essential for generating high-quality, accurate synthetic data, as shown in figure below. 
 
-![image](https://github.com/user-attachments/assets/2bf66838-d54a-4a6d-b779-df169356afad)
+<!-- ![image](https://github.com/user-attachments/assets/2bf66838-d54a-4a6d-b779-df169356afad) --> 
 <img src="https://github.com/user-attachments/assets/2bf66838-d54a-4a6d-b779-df169356afad" alt="image" width="600">
 
 

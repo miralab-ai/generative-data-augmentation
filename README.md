@@ -69,6 +69,13 @@ Synthetic data augmentation was applied to address class imbalance by focusing o
 <img src="https://github.com/user-attachments/assets/84dec8ec-61d0-4217-bacf-bd328615ba8d" alt="image" width="600">
 
 
+## Impact of diffusion‑based data augmentation on model performance versus traditional methods 
+Stable Diffusion-based data augmentation outperformed traditional methods by producing augmented data closely aligned with the underlying data distribution. Unlike conventional approaches, which often distort or over-process data, diffusion-based techniques preserved critical features, enabling better generalization and improved accuracy. Focusing on 5-class scenarios highlighted the saturation point of augmentation benefits, demonstrating that diffusion-based methods excel in handling the complexities of ocular disease images. As detailed in Table below, this approach significantly enhanced model performance compared to traditional augmentation methods. 
+
+**Table:** 5 class classification comparison between traditional and synthetic data augmentation results for different scenarios. sc1: real data, sc2: real data + x1 synthetic data augmentation, sc3: real data + x1 traditional data augmentation, sc4: real data + x2 synthetic data augmentation, sc5: real data + x2 traditional data augmentation.
+
+<!-- ![image](https://github.com/user-attachments/assets/7a36055d-8bee-43e2-925e-1f64f56cd8b9) -->
+<img src="https://github.com/user-attachments/assets/7a36055d-8bee-43e2-925e-1f64f56cd8b9" alt="image" width="400">
 
 
 # Citation 

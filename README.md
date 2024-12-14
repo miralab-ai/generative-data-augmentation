@@ -44,13 +44,15 @@ With the completion of the labeling process through the classification model, th
 ## Step 6: Evaluation and Testing for Different Cases: 
 The final step involves subjecting the newly formed Hybrid datasets to a series of tests. We carefully assessed the impact of the synthetic data addition on accuracy. Once again, a pre-trained VGG19 model was utilized. This step allowed us to draw conclusions and provided insights into the effectiveness of our synthetic data augmentation in enhancing classification performance.
 
-
 ## Dataset 
-
 Ocular Disease Intelligent Recognition (ODIR), used in this study, is publicly available at https://odir2019.grand-challenge.org/. 
 
+# Results and Discussions 
 
+## Fine‑tuning and prompt engineering significantly influenced the quality of synthetic data
+Fine-tuning and prompt engineering play a crucial role in improving the quality of synthetic data for ocular diseases such as Glaucoma, Hypertension, Cataract, AMD, and Pathological Myopia. Specific prompts enable more realistic representations, capturing detailed disease-specific features often missed or distorted with generic prompts. The study demonstrates that tailored prompt selection, combined with fine-tuning, is essential for generating high-quality, accurate synthetic data, as shown in Figure below. 
 
+![image](https://github.com/user-attachments/assets/a2eb7d46-631e-4a63-8f40-4be6f3db596a)
 
 
 

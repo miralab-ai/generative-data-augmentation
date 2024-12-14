@@ -75,7 +75,16 @@ Stable Diffusion-based data augmentation outperformed traditional methods by pro
 **Table:** 5 class classification comparison between traditional and synthetic data augmentation results for different scenarios. sc1: real data, sc2: real data + x1 synthetic data augmentation, sc3: real data + x1 traditional data augmentation, sc4: real data + x2 synthetic data augmentation, sc5: real data + x2 traditional data augmentation.
 
 <!-- ![image](https://github.com/user-attachments/assets/7a36055d-8bee-43e2-925e-1f64f56cd8b9) -->
-<img src="https://github.com/user-attachments/assets/7a36055d-8bee-43e2-925e-1f64f56cd8b9" alt="image" width="400">
+<img src="https://github.com/user-attachments/assets/7a36055d-8bee-43e2-925e-1f64f56cd8b9" alt="image" width="500">
+
+## Analyzing the limitations of synthetic data augmentation: the saturation point and its impact on model accuracy 
+Synthetic data improves model performance by increasing diversity and aiding generalization, but its benefits diminish beyond a saturation point. Excessive synthetic data can deviate from real-world representations, leading to overfitting and reduced generalization to new data. This phenomenon, akin to photocopying, introduces distortions that overshadow real data's characteristics, reducing model effectiveness. An ablation study, summarized in Table below, identified the optimal balance between real and synthetic data. Doubling the synthetic data (case ‘sc5’) yielded the best results, while adding more synthetic data beyond this point led to performance decline. 
+
+**Table:** 5 class classification results with synthetic data augmentation for different scenarios. sc1: real data, sc2: real data + x0.5 synthetic data, sc3: real data + x1 synthetic data, sc4: real data + x1.5 synthetic data, sc5: real data + x2 synthetic data, sc6: real data + x4 synthetic data. 
+
+<!-- ![image](https://github.com/user-attachments/assets/122ddbac-09d8-4448-af34-5d383ec2f3d6) -->
+<img src="https://github.com/user-attachments/assets/122ddbac-09d8-4448-af34-5d383ec2f3d6" alt="image" width="500">
+
 
 
 # Citation 

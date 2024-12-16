@@ -11,13 +11,21 @@ Deep learning models, integral components of contemporary technological landscap
 
 # Repo Contents 
 **classification_general_VGG19.ipynb:** Uses the VGG19 model for image classification.
+
 **custom_csv_maker.ipynb:** Creates custom CSV files from dataset classes.
+
 **different-csv-concatenation.ipynb:** Concatenates multiple CSV files for combined analysis or training.
+
 **fine-tuning-stable-diffusion.ipynb:** Fine-tunes Stable Diffusion for generating improved outputs.
+
 **photo_similarity_matcher.ipynb:** Matches photo similarities using image comparison techniques.
+
 **synthetic-and-real-data-concate.ipynb:** Merges synthetic and real data for larger classification datasets.
+
 **synthetic_data_classification.ipynb:** Classifies data using synthetic datasets.
+
 **synthetic_data_classification_model_creation.ipynb:** Builds models for classifying synthetic data.
+
 **traditional-data-augmentation.ipynb:** Applies basic data augmentation like flipping or scaling to increase dataset variability.
 
 

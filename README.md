@@ -10,6 +10,16 @@ Burak Aktas, Doga Deniz Ates, Okan Duzyel, and Abdurrahman Gumus "**Data Augment
 Deep learning models, integral components of contemporary technological landscapes, exhibit enhanced learning capabilities with larger datasets. Traditional data augmentation techniques, while effective in generating new data, have limitations, especially in fields like ocular disease diagnosis. In response, alternative augmentation approaches, including the utilization of generative AI, have emerged. In our study, we employed a diffusion-based model (Stable Diffusion) to synthesize data by faithfully recreating crucial vascular structures in the retina, vital for detecting eye diseases by using the Ocular Disease Intelligent Recognition dataset. Our goal was to augment retinography images for ocular disease diagnosis using diffusion-based models, optimizing the outputs of the fine-tuned Stable Diffusion model, and ensuring the generated data closely resembles real-world scenarios. This strategic approach resulted in improved performance in classification models and augmentation outperformed traditional methods, exhibiting high precision rates ranging from 85% to 76.2% and recall values of 86%, and 75% for 5 classes. Beyond performance enhancement, we demonstrated that the inclusion of synthetic data, coupled with data reduction using the t-SNE method, effectively addressed dataset imbalance. As a result of synthetic data addition, notable increases of 3.4% in the precision metric and 12.8% in the recall metric were observed in the 7-class case. Strategically synthesizing data addressed underrepresented classes, creating a balanced dataset for comprehensive model learning. Surpassing performance improvements, this approach underscores synthetic data’s ability to overcome the limitations of traditional methods, particularly in sensitive medical domains like ocular disease diagnosis, ensuring accurate classification. 
 
 # Repo Contents 
+**classification_general_VGG19.ipynb:** Uses the VGG19 model for image classification.
+**custom_csv_maker.ipynb:** Creates custom CSV files from dataset classes.
+**different-csv-concatenation.ipynb:** Concatenates multiple CSV files for combined analysis or training.
+**fine-tuning-stable-diffusion.ipynb:** Fine-tunes Stable Diffusion for generating improved outputs.
+**photo_similarity_matcher.ipynb:** Matches photo similarities using image comparison techniques.
+**synthetic-and-real-data-concate.ipynb:** Merges synthetic and real data for larger classification datasets.
+**synthetic_data_classification.ipynb:** Classifies data using synthetic datasets.
+**synthetic_data_classification_model_creation.ipynb:** Builds models for classifying synthetic data.
+**traditional-data-augmentation.ipynb:** Applies basic data augmentation like flipping or scaling to increase dataset variability.
+
 
 ### Dependencies 
 

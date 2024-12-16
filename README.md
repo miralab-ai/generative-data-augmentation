@@ -1,4 +1,4 @@
-# generative-data-augmentation
+# Generative Data Augmentation
 
 Github repository for the article below: 
 

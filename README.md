@@ -31,7 +31,7 @@ Deep learning models, integral components of contemporary technological landscap
 
 ## Dependencies 
 
-To set up the environment and install required dependencies, use the provided `requirements.txt` file. 
+To install required dependencies, use the provided `requirements.txt` file. 
 
 ```bash
 pip install -r requirements.txt

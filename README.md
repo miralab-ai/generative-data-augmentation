@@ -34,8 +34,8 @@ Deep learning models, integral components of contemporary technological landscap
 To set up the environment and install required dependencies, use the provided `requirements.txt` file. 
 
 ```bash
-pip install -r requirements.txt'''
-
+pip install -r requirements.txt
+```
 
 # Algorithm Flow 
 

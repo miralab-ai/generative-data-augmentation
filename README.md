@@ -29,7 +29,11 @@ Deep learning models, integral components of contemporary technological landscap
 **traditional-data-augmentation.ipynb:** Applies basic data augmentation like flipping or scaling to increase dataset variability.
 
 
-### Dependencies 
+## Dependencies 
+
+To set up the environment and install required dependencies, use the provided `requirements.txt` file. 
+
+pip install -r requirements.txt
 
 
 # Algorithm Flow 

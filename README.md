@@ -3,7 +3,7 @@
 Github repository for the article below: 
 
 
-Burak Aktas, Doga Deniz Ates, Okan Duzyel, and Abdurrahman Gumus "**Data Augmentation Using Diffusion-Based Models for Improved Performance in Ocular Disease Diagnosis Using Retinography Images**", International Journal of Machine Learning and Cybernetics (2024) 
+Burak Aktas, Doga Deniz Ates, Okan Duzyel, and Abdurrahman Gumus "**Diffusion‑based data augmentation methodology for improved performance in ocular disease diagnosis using retinography images**", International Journal of Machine Learning and Cybernetics (2024) 
 
 # Abstract 
 
@@ -70,6 +70,8 @@ The final step involves subjecting the newly formed Hybrid datasets to a series 
 
 ## Dataset 
 Ocular Disease Intelligent Recognition (ODIR), used in this study, is publicly available at https://odir2019.grand-challenge.org/. 
+
+https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k 
 
 # Results and Discussions 
 
